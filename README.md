@@ -1,4 +1,4 @@
-# SendGrid Prototype: Send Mail from your Rails App
+# mailit: Send Mail from your Rails App using SendGrid's Cloud SMTP Service
 
 This prototype demonstrates how to configure your Rails App to send email via SendGrid (or any other SMTP service). This project is kept deliberately small and simple so that its workings can be understood more easily. It is derived from a [*RailsCast on ActionMailer*](http://railscasts.com/episodes/206-action-mailer-in-rails-3). Several improvements were made, including a) the use of environment variables to securely pass authentication credentials to the Rails app, and b) allow for differing production and development environments.
 
