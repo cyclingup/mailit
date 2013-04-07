@@ -1,7 +1,7 @@
 # Do not hardcode your mail configuration in source code, especially your user_name and password, 
 # because source code is often publicly visible (like when it's published to a free Github account),
 # and your secret things, like password, must be kept secret, otherwise bad people can use them.
-# See http://railsapps.github.io/rails-environment-variables.html and
+# See http://railsapps.github.io/rails-environment-variables.html 
 # for ideas on how to set environment variables to pass secret info to your Rails app.
 #
 # For your DEVELOPMENT ENVIRONMENT:
